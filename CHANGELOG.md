@@ -3,6 +3,15 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+## [2024-03-01 - 2024-03-08]
+
+* **Виправлення:** fetch master (#2868) ([2cd933e8](https://github.com/webdoky/content/commit/2cd933e8292b1d75f774f2c07e65067b47e5f0b2))
+* **Оновлення перекладу(Glossary):** glossary/base64 (#2867) ([7cde144f](https://github.com/webdoky/content/commit/7cde144f1a810bdd1194114127f9edae46e5a471))
+* **Оновлення перекладу(HTML):** web/html/element/script/type/speculationrules (#2866) ([5c6c03e1](https://github.com/webdoky/content/commit/5c6c03e11d394697455a027399e3879eaa873619))
+* **Оновлення перекладу(SVG):** web/svg/attribute (#2865) ([96141211](https://github.com/webdoky/content/commit/96141211b1fa05ab5b790779c8aafef119c966a1))
+* **Оновлення перекладу(CSS):** web/css/reference (#2863) ([641d7f3a](https://github.com/webdoky/content/commit/641d7f3a342b114e2e80c79c1b01dbbaaa040e2b))
+* **Оновлення перекладу(CSS):** web/css/position (#2861) ([c0e426b2](https://github.com/webdoky/content/commit/c0e426b29d3e854850db3f4a2409506b32501e14))
+
 ## [2024-02-23 - 2024-03-01]
 
 * **Оновлення перекладу(HTML):** web/html/element/ul (#2857) ([82b0beaa](https://github.com/webdoky/content/commit/82b0beaac281a05143d49b7cd2f5ac05762b68f3))
