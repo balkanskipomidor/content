@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+## [2024-03-15 - 2024-03-22]
+
+...
+
 ## [2024-02-23 - 2024-03-01]
 
 * **Оновлення перекладу(HTML):** web/html/element/ul (#2857) ([82b0beaa](https://github.com/webdoky/content/commit/82b0beaac281a05143d49b7cd2f5ac05762b68f3))
